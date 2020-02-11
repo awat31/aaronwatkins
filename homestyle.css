@@ -61,7 +61,8 @@ li a {
 
 
 .active {
-  color: rgb(0,0,0);
+  color: rgb(47, 117, 255);
+  background-color: rgb(220,220,220);
 }
 
 .flex-container {
