@@ -4,11 +4,13 @@ h3 {color:rgb(60,60,60); text-align: center; font-family: bahnschrift;}
 h4 {color:rgb(60,60,60); text-align: center; font-family: bahnschrift;}
 h5 {color:rgb(60,60,60); text-align: center; font-family: bahnschrift;}
 p { color:rgb(80,80,80); text-align: center; font-family: bahnschrift;}
-img {
-  padding: 5px;
-}
-
-footer {colour:rgb(70,70,70); text-align: center; font-family: bahnschrift;}
+img { padding: 5px;}
+footer {color:rgb(150,150,150);
+  text-align: center;
+  font-size: 14px;
+  font-family: bahnschrift;
+  width: 100%;
+  bottom: 0;}
 
 
 a:link {
