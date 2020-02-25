@@ -39,8 +39,9 @@ IMG.displayed {
 }
 
 .bottom{
-  left:44%;
+  left:42.5%;
   bottom: 210px;
   position:fixed;
-  width: 9%;
+  width:10%
+
 }
