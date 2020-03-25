@@ -7,7 +7,7 @@ h3 {color:rgb(60,60,60); text-align: center; font-family: bahnschrift;}
 h4 {color:rgb(60,60,60); text-align: center; font-family: bahnschrift;}
 h5 {color:rgb(60,60,60); text-align: center; font-family: bahnschrift;}
 p { color:rgb(80,80,80); text-align: center; font-family: bahnschrift;}
-img { padding: 5px; pointer-events: none;}
+img { padding: 5px;}
 footer{
   position: bottom;
   left: 0;
@@ -90,6 +90,18 @@ li a {
 .flex-item{
   padding: 5px;
   text-align:center;
+}
+
+.img:hover {
+  -webkit-transition: all .3s ease-in;
+  -moz-transition: all .3s ease-in;
+  -ms-transition: all .3s ease-in;
+  -o-transition: all .3s ease-in;
+  transition: all .3s ease-in;
+  opacity: 1;
+  transform: scale(1.5);
+  -ms-transition: scale(1.5);
+  -webkit-transform: scale(1.5);
 }
 
 @media only screen and (max-width: 1000px)
