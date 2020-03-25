@@ -1,4 +1,5 @@
 body {background-image: url('./BackgroundWebsite.png');
+  background-attachment: scroll;
   background-size:cover;
   font-family:bahnschrift;
   background-attachment: fixed;}
@@ -105,5 +106,5 @@ li a {
 }
 
 @media only screen and (max-width: 1000px) {
-  p {text-size: 16px; }
+  .para {text-size: 16px; }
 }
