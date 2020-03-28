@@ -1,4 +1,12 @@
-body {background-image: url('./pictures/Landscapes/KinordSunset2.jpg'); background-size:cover; font-family:bahnschrift; background-attachment: fixed}
+body {
+  background-image: url('./pictures/Landscapes/KinordSunset2.jpg');
+background-size:cover;
+font-family:bahnschrift;
+background-attachment: fixed;
+position:relative;
+background-repeat: no-repeat;
+height: 500px;
+}
 
 
 a:link {
@@ -43,5 +51,8 @@ IMG.displayed {
   bottom: 210px;
   position:fixed;
   width:10%
+}
+
+.hero-image {
 
 }
