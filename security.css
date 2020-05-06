@@ -1,77 +1,62 @@
+*{
+  box-sizing: border-box;
+}
 body {
-justify-content: center;
-background-color: rgb(20,20,20);
+background-color: rgb(30,30,30);
 font-family:Consolas;
-color: rgb(240,240,240);
-margin: 15px;
+color: rgb(220,220,220);
+margin: 20px;
 padding-bottom: 15px;
 font-size: 16px;
 }
 
+h1{
+  text-align: center;
+}
+
 h2 {
-  color:rgb(255,255,255);
+  color:rgb(220,220,220);
   font-size: 30px;
   margin: 15px;
+  text-align: center;
 }
+
 p {
-
+margin: inherit;
+padding: inherit;
+text-align: center;
 }
 
-
-a:link {
-  color: rgb(230,230,230);
-  text-decoration: none;
+header{
+  padding:0px;
+  text-align:left;
 }
 
-a:visited {
-  color: rgb(230,230,230);
+nav{
+  float:left;
+  width:15%;
 }
-
-a:hover {
-  color: rgb(255, 255, 255);
-  text-decoration: underline;
-}
-
-a:active{
-  color: rgb(0,0,0);
-}
-
 
 ul {
   list-style-type: none;
-  margin: 0;
   padding: 0;
-  overflow: hidden;
-  text-align: left;
-  font-size: 48;
-  color: white;
-  font-family: bahnschrift;
-  padding-bottom: 0.4em;
-  padding-top: 0.4em;
 }
 
 li {
-  display: inline;
-  color: white;
+  color: rgb(220,220,220);
+  padding-bottom: 10px;
+  padding-left: 10px;
 }
 
 li a {
   color: rgb(0, 119, 155);
-  padding: 5px 7px;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
-
-.active {
-  color: rgb(47, 117, 255);
-  background-color: rgb(60,60,60);
-}
-
-.right{
-  float:right;
-}
-.left{
+article{
   float:left;
+  padding: 20px;
+  width: 85%;
 }
 
 footer{
@@ -84,3 +69,48 @@ footer{
   font-size: 14px;
   font-family: Consolas;
 }
+
+a {
+
+}
+
+a:link {
+  color: rgb(220,220,220);
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(220,220,220);
+}
+
+a:hover {
+  color: rgb(220, 220, 220);
+  text-decoration: underline;
+}
+
+a:active{
+  color: rgb(0,0,0);
+}
+
+.active {
+  color: rgb(47, 117, 255);
+  text-decoration: underline;
+}
+
+.right{
+  float:right;
+}
+.left{
+  float:left;
+}
+
+.header{
+  padding-top: 0px;
+  padding-bottom: 15px;
+  justify-content: left;
+}
+
+.drop{
+    position: bottom;
+    bottom:0;
+  }
