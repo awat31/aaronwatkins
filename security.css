@@ -58,7 +58,13 @@ li a {
 article{
   float:left;
   padding: 20px;
-  width: 85%;
+  width:70%;
+}
+
+outside{
+  float:right;
+  padding: 20px;
+  width:15%;
 }
 
 footer{
@@ -89,6 +95,7 @@ a:hover {
 
 a:active{
   color: rgb(0,0,0);
+  text-decoration: underline;
 }
 
 .active {
