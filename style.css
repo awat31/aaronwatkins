@@ -180,6 +180,18 @@ li a {
     display: none;
   }
 
+  .img:hover{
+    -webkit-transition: all 0s ease-in;
+    -moz-transition: all 0s ease-in;
+    -ms-transition: all 0s ease-in;
+    -o-transition: all 0s ease-in;
+    transition: all 0s ease-in;
+    opacity: 1;
+    transform: scale(1);
+    -ms-transition: scale(1.0);
+    -webkit-transform: scale(1.0);
+  }
+
   .img{
     width: 300px;
     height: auto;
