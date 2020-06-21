@@ -156,6 +156,7 @@ li a {
     grid-row-gap: 10px;
     justify-content: center;
     text-align: right;
+    padding: 5px;
   }
 
   .item1 {
