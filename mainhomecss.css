@@ -152,7 +152,7 @@ li a {
 @media only screen and (max-width: 1080px) {
 
   .modal-content{
-    width:300px;
+    width:80%;
     border: 0.5px;
     padding: 10px;
     font-size: 15px;
@@ -175,8 +175,7 @@ li a {
   }
 
   h2{
-    padding-top: 60%;
-    font-size: 50px;
+    padding-top: 80%;
   }
 
 
