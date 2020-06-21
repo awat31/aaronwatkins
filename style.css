@@ -109,9 +109,10 @@ li a {
   display: grid;
   grid-template-columns: auto auto auto;
   grid-row-gap: 30px;
-  justify-content: right;
+  justify-content: center;
   width: 75%;
-  text-align: right;
+  text-align: center;
+  margin-left: 12%;
 }
 
 .item1{
@@ -159,9 +160,9 @@ li a {
     display: grid;
     grid-template-columns: auto;
     grid-row-gap: 10px;
-    justify-content: center;
+    justify-content:center;
     text-align: left;
-    padding: 5px;
+    margin: 15%;
   }
 
   .item1 {
