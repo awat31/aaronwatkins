@@ -141,6 +141,14 @@ li a {
     height: 100px;
   }
 
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-row-gap: 10px;
+    justify-content: right;
+    text-align: right;
+  }
+
   .item1 {
     grid-column-start: 1;
     grid-column-end: 1;
