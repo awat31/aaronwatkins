@@ -136,3 +136,12 @@ grid-column-end: 3;
   grid-column-start: 1;
   grid-column-end: 3;
 }
+
+@media only screen and (max-width: 1080px) {
+
+  outside{
+    display: none;
+  }
+
+
+}
