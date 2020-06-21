@@ -150,12 +150,17 @@ li a {
     height: 100px;
   }
 
+  p{
+    font-size: 14px;
+    padding:5px;
+  }
+
   .grid-container {
     display: grid;
     grid-template-columns: auto;
     grid-row-gap: 10px;
     justify-content: center;
-    text-align: right;
+    text-align: left;
     padding: 5px;
   }
 
