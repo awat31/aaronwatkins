@@ -152,9 +152,9 @@ li a {
 
   .grid-container {
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: auto;
     grid-row-gap: 10px;
-    justify-content: right;
+    justify-content: center;
     text-align: right;
   }
 
@@ -163,7 +163,6 @@ li a {
     grid-column-end: 1;
     grid-row-start: 1;
     grid-row-end: 1;
-    padding-right: 0px;
   }
 
   .item2 {
