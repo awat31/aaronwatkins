@@ -164,8 +164,6 @@ li a {
     grid-row-start: 1;
     grid-row-end: 1;
     padding-right: 0px;
-    height: 350px;
-    width: auto;
   }
 
   .item2 {
