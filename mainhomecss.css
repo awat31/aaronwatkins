@@ -49,10 +49,12 @@ a:active{
 
 .photography{
   font-size: 28px;
-  border-style: solid;
+  border-bottom-style: solid;
+  border-top-style: solid;
   border-color: rgb(240,240,240);
   border-width: 3px;
   padding: 8px;
+  border-radius: 5px;
 
 }
 
