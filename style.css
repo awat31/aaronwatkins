@@ -73,6 +73,12 @@ li a {
   text-decoration: none;
 }
 
+.vino{
+  padding:0;
+  margin: 0;
+  font-family: Gabriola;
+  font-style: italic;
+}
 
 .active {
   color: rgb(47, 117, 255);
