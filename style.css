@@ -212,8 +212,9 @@ li a {
   }
 
   .vino{
-    font-family: Gabriola, Eras Light ITC, Goudy Old Style,Italic_IV25;
+    font-family: Gabriola, Courier New;
     font-style: italic;
+    font-size: 20px;
   }
 
 
