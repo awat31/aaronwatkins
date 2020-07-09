@@ -73,6 +73,12 @@ li a {
   text-decoration: none;
 }
 
+.vino{
+  padding:0;
+  margin: 0;
+  font-family: Gabriola, Eras Light ITC, Goudy Old Style,Italic_IV25;
+  font-style: italic;
+}
 
 .active {
   color: rgb(47, 117, 255);
@@ -112,7 +118,7 @@ li a {
   justify-content: center;
   width: 75%;
   text-align: left;
-  margin-left: 10%;
+  padding-left: 3%;
 }
 
 .item1{
@@ -203,6 +209,12 @@ li a {
   .img{
     width: 300px;
     height: auto;
+  }
+
+  .vino{
+    font-family: Gabriola, Courier New, Courier;
+    font-style: italic;
+    font-size: 16px;
   }
 
 
