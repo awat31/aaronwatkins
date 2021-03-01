@@ -8,10 +8,13 @@ body {
 h2 {
   color:rgb(255,255,255);
   font-size: 48px;
+  padding-bottom: 0;
+  margin-bottom: 0;
 }
 
 h3 {
   font-size: 24px;
+  margin-top: 1px;
 }
 
 a:link {
@@ -51,11 +54,11 @@ footer{
 }
 
 .photography{
-  font-size: 28px;
+  font-size: 20px;
   border-bottom-style: solid;
   border-top-style: solid;
   border-color: rgb(240,240,240);
-  border-width: 3px;
+  border-width: 2px;
   padding: 8px;
   border-radius: 5px;
 
