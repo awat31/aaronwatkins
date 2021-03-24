@@ -22,6 +22,11 @@ footer{
   font-family: bahnschrift;
 }
 
+.notbad{
+  color:rgb(60,60,60);
+  text-align: center;
+  font-family: bahnschrift;
+}
 a:link {
   color: rgb(60, 60, 60);
   text-decoration: none;
