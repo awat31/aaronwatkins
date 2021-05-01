@@ -1,57 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-<loc>https://www.aaronwatkins.co.uk/</loc>
-<lastmod>2021-03-01T16:34:06+00:00</lastmod>
-<priority>1.00</priority>
+  <loc>https://www.aaronwatkins.co.uk/</loc>
+  <lastmod>2021-05-01T12:40:26+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>https://www.aaronwatkins.co.uk/home.html</loc>
-<lastmod>2021-03-01T16:34:06+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://www.aaronwatkins.co.uk/index.html</loc>
+  <lastmod>2021-05-01T12:40:26+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://www.aaronwatkins.co.uk/index.html</loc>
-<lastmod>2021-03-01T16:34:06+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://www.aaronwatkins.co.uk/portfolio.html</loc>
+  <lastmod>2021-05-01T12:40:26+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://www.aaronwatkins.co.uk/myimages.html</loc>
-<lastmod>2021-03-01T16:34:06+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://www.aaronwatkins.co.uk/projects.html</loc>
+  <lastmod>2021-05-01T12:40:26+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://www.aaronwatkins.co.uk/commercial.html</loc>
-<lastmod>2021-03-01T16:34:06+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://www.aaronwatkins.co.uk/portraits.html</loc>
+  <lastmod>2021-05-01T12:40:26+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://www.aaronwatkins.co.uk/portraits.html</loc>
-<lastmod>2021-03-01T16:34:06+00:00</lastmod>
-<priority>0.51</priority>
+  <loc>https://www.aaronwatkins.co.uk/landscapes.html</loc>
+  <lastmod>2021-05-01T12:40:26+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://www.aaronwatkins.co.uk/landscapes.html</loc>
-<lastmod>2021-03-01T16:34:06+00:00</lastmod>
-<priority>0.51</priority>
+  <loc>https://www.aaronwatkins.co.uk/urban.html</loc>
+  <lastmod>2021-05-01T12:40:26+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://www.aaronwatkins.co.uk/urban.html</loc>
-<lastmod>2021-03-01T16:34:06+00:00</lastmod>
-<priority>0.51</priority>
+  <loc>https://www.aaronwatkins.co.uk/animals.html</loc>
+  <lastmod>2021-05-01T12:40:26+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://www.aaronwatkins.co.uk/animals.html</loc>
-<lastmod>2021-03-01T16:34:06+00:00</lastmod>
-<priority>0.51</priority>
+  <loc>https://www.aaronwatkins.co.uk/weddings.html</loc>
+  <lastmod>2021-05-01T12:40:26+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://www.aaronwatkins.co.uk/weddings.html</loc>
-<lastmod>2021-03-01T16:34:06+00:00</lastmod>
-<priority>0.51</priority>
+  <loc>https://www.aaronwatkins.co.uk/cars.html</loc>
+  <lastmod>2021-05-01T12:40:26+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
-<url>
-<loc>https://www.aaronwatkins.co.uk/cars.html</loc>
-<lastmod>2021-03-01T16:34:06+00:00</lastmod>
-<priority>0.51</priority>
-</url>
+
+
 </urlset>
