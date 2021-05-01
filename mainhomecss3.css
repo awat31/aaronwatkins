@@ -1,13 +1,26 @@
 body {
+  background-image: url('edicastlecrop.jpg');
+  background-size: 100%;
+  background-repeat: no-repeat;
   background-color: rgb(30,30,30);
   font-family:Lato, sans-serif;
   color: rgb(240,240,240);
 }
 
+h1 {
+  font-size:38px;
+  margin: 0px;
+  padding-top: 260px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
 h2 {
   color:rgb(255,255,255);
   font-size: 68px;
-
+  padding-top: 0px;
+  padding-bottom: 10px;
+  margin-top: 0px;
 }
 
 h3 {
@@ -57,14 +70,15 @@ a:active{
 }
 
 .photography{
-  font-size: 21px;
+  font-size: 26px;
   border-bottom-style: solid;
   border-top-style: solid;
   border-color: rgb(240,240,240);
   border-width: 2px;
-  padding: 8px;
+  padding: 10px;
   border-radius: 5px;
-
+  margin-right: 10px;
+  margin-left: 10px;
 
 }
 
@@ -80,19 +94,19 @@ a:active{
 
 .item1{
   grid-column-start: 1;
-  grid-column-end: 1;
+  grid-column-end: 2;
   grid-row-start: 1;
-  grid-row-end: 2;
+  grid-row-end: 1;
   padding: 0px;
-  width: 80%;
+  width: 100%;
   justify-content: center;
 }
 
 .item2{
   margin-top: 10%;
-  grid-column-start: 2;
+  grid-column-start: 1;
   grid-column-end: 2;
-  grid-row-start: 1;
+  grid-row-start: 2;
   grid-row-end: 2;
   padding: 0px;
   height: 450px;
@@ -100,28 +114,29 @@ a:active{
 }
 
 .logo{
-  height: 60px;
+  height: 150px;
   width: auto;
-  padding: 20px;
-  padding-top: 30px;
 }
 
 
 @media only screen and (max-width: 1080px) {
 
-
-
   .logo{
-    width:50px;
+    width:100px;
     height:auto;
   }
 
   h2{
-    font-size: 70px;
+    font-size: 40px;
   }
   a{
     font-size: 48px;
   }
 
-
-}
+  h1 {
+      font-size:28px;
+      margin: 0px;
+      padding-top: 280px;
+      padding-bottom: 10px;
+      text-align: center;
+    }
