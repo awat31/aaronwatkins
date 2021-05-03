@@ -9,52 +9,57 @@
 
 <url>
   <loc>https://www.aaronwatkins.co.uk/</loc>
-  <lastmod>2021-05-01T12:40:26+00:00</lastmod>
+  <lastmod>2021-05-01T17:40:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.aaronwatkins.co.uk/index.html</loc>
-  <lastmod>2021-05-01T12:40:26+00:00</lastmod>
+  <loc>https://www.aaronwatkins.co.uk/about.html</loc>
+  <lastmod>2021-05-01T17:40:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.aaronwatkins.co.uk/portfolio.html</loc>
-  <lastmod>2021-05-01T12:40:26+00:00</lastmod>
+  <lastmod>2021-05-01T17:40:01+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.aaronwatkins.co.uk/index.html</loc>
+  <lastmod>2021-05-01T17:40:00+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.aaronwatkins.co.uk/projects.html</loc>
-  <lastmod>2021-05-01T12:40:26+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2021-05-01T17:40:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.aaronwatkins.co.uk/portraits.html</loc>
-  <lastmod>2021-05-01T12:40:26+00:00</lastmod>
+  <lastmod>2021-05-01T17:40:01+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.aaronwatkins.co.uk/landscapes.html</loc>
-  <lastmod>2021-05-01T12:40:26+00:00</lastmod>
+  <lastmod>2021-05-01T17:40:00+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.aaronwatkins.co.uk/urban.html</loc>
-  <lastmod>2021-05-01T12:40:26+00:00</lastmod>
+  <lastmod>2021-05-01T17:40:01+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.aaronwatkins.co.uk/animals.html</loc>
-  <lastmod>2021-05-01T12:40:26+00:00</lastmod>
+  <lastmod>2021-05-01T17:40:00+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.aaronwatkins.co.uk/weddings.html</loc>
-  <lastmod>2021-05-01T12:40:26+00:00</lastmod>
+  <lastmod>2021-05-01T17:40:01+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.aaronwatkins.co.uk/cars.html</loc>
-  <lastmod>2021-05-01T12:40:26+00:00</lastmod>
+  <lastmod>2021-05-01T17:40:00+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
