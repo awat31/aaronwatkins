@@ -105,6 +105,11 @@ li a {
   text-align:left;
 }
 
+.flex-item2{
+  padding: 20px;
+  text-align:left;
+}
+
 .img:hover {
   -webkit-transition: all .3s ease-in;
   -moz-transition: all .3s ease-in;
